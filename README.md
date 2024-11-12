@@ -1,4 +1,4 @@
-# Line_Follwer
+# Line_Follower
 
 There is a compact design for line follower car ensuring center of gravitation is as low as possible for stability. 
 All components are in one layers between the wheels.
